@@ -74,8 +74,11 @@ public class meeting{
         }
 
         // 这样写会导致后面给roomRet赋值的时候，一整列同时变化。
+        int[] ss = new int[m+1];
+        Arrays.fill(roomRet, ss);
         // Arrays.fill(roomRet, new int[m+1]);
 
+        // 这个二重循环更新值的时候就不会有问题
         for (int i = 0; i < n + 1 ; i++) {
             for (int j = 0; j < m + 1; j++) {
                 roomRet[i][j] = 0;

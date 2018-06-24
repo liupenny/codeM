@@ -5,12 +5,12 @@ package pre_compeB.lowbit;
  */
 
 public class lowbit{
-    public static void main(String[] args) {
-
-    }
-
-    public int getlowbit(String n)
-    {
-
-    }
+//    public static void main(String[] args) {
+//
+//    }
+//
+//    public int getlowbit(String n)
+//    {
+//
+//    }
 }
