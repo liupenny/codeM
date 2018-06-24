@@ -1,3 +1,5 @@
+package pre_compeB.meeting;
+
 import java.util.*;
 
 /**

@@ -1,4 +1,4 @@
-package YourCity;
+package Qualification.YourCity;
 
 /**
  * Created by PennyLiu on 2018/6/13.

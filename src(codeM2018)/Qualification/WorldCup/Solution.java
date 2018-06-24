@@ -1,4 +1,4 @@
-package WorldCup;
+package Qualification.WorldCup;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package cola;
+package Qualification.cola;
 
 import java.util.Scanner;
 
